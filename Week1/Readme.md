@@ -6,8 +6,17 @@ The required graph is shown here.<br />
 <br />
 <img src="https://github.com/shivgit07/SOC_23/assets/106404626/aebe11f5-cb09-448e-a933-fceec4597dd4" width="550" height="400"> <br />
 <br />
-For code see `Task1_linesrReg.ipynb` file <br />
+The minima is at partition of 74% Train data.<br />
+For code see ``Task1_linearReg.ipynb`` file <br />
 <br />
 
 ### TASK2: ### 
-_will be updated soon_
+
+| **Classifiers** | **Loss** | **Accuracy** |
+| ------------- | ------------- | ------------- |
+| KNN           | 0.35406698564593303   | 0.645933014354067   |
+| Naive Bayes   | 0.13875598086124402   | 0.861244019138756   |
+| Decision Tree | 0.24880382775119617   | 0.7511961722488039  | 
+<br />
+Therefore, our best classifier is _Naive Bayes_ with accuracy of 86.12% <br />
+For code see `Task2.ipynb`  file <br />
