@@ -20,3 +20,16 @@ For code see ``Task1_linearReg.ipynb`` file <br />
 <br />
 Therefore, our best classifier is _Naive Bayes_ with accuracy of 86.12% <br />
 For code see `Task2.ipynb`  file <br />
+
+---
+### Submission Results
+<ul> 
+  <li> Task 1: Correct </li>
+  <li> Task 2: Great Work. Still a minute remark: The csv file gender_submission.csv is not the true test values. Infact test values are not provided. You should have split the entire dataset into train and test.</
+li>
+   <li> Submission accepted</li>
+  <li> Assignment 2 unlocked: https://drive.google.com/file/d/1aQ62-UioJ5y-aKBXhk5TutvDl7uhv-ZW/view?usp=sharing </li>
+  </ul>
+   
+  
+    
